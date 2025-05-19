@@ -1,0 +1,24 @@
+{
+  "name": "cypress_pom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasad2233/Cypress_POM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/prasad2233/Cypress_POM/issues"
+  },
+  "homepage": "https://github.com/prasad2233/Cypress_POM#readme",
+  "dependencies": {
+    "cypress": "^14.3.3"
+  }
+}
