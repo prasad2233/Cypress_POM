@@ -7,4 +7,5 @@ module.exports = defineConfig({
     },
   },
   watchForFileChanges: false,
+  experimentalStudio: true,
 });
