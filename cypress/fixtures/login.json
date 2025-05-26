@@ -1,0 +1,10 @@
+{
+    "newUser": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "regUserName": "johndoe",
+        "password": "Pass@123",
+        "confirmPassword": "Pass@123",
+        "gender": "Male"
+    }
+}

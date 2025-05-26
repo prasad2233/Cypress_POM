@@ -36,4 +36,9 @@ describe("Login test cases", () => {
             expect(element.text()).to.have.length(23);
         })
     })
+    it.only("Selector in cypress", () => {
+        cy.get('input[data-test="username"]').type("standard_user").then((element)=>{
+            cy.log(element.val())
+        })
+    })
 })

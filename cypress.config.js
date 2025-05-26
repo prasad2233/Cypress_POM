@@ -8,4 +8,6 @@ module.exports = defineConfig({
   },
   watchForFileChanges: false,
   experimentalStudio: true,
+  video:true,
+  projectId: "8j5gf9"
 });
