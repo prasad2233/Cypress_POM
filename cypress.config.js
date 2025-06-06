@@ -9,5 +9,7 @@ module.exports = defineConfig({
   watchForFileChanges: false,
   experimentalStudio: true,
   video:true,
-  projectId: "8j5gf9"
+  projectId: "8j5gf9",
+  viewportHeight: 1080,
+  viewportWidth: 1920
 });
